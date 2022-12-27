@@ -18,6 +18,7 @@ fastapi_project/
 |     dependencies.py
 |     security.py
 |     utils.py
+|
 |   routers/
 |     __init__.py
 |     posts.py 
