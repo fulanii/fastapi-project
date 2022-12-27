@@ -21,13 +21,13 @@ fastapi_project/
 |     utils.py
 |
 |	routers/
-|	  __init__.py
+|     __init__.py
 |     posts.py 
 |     users.py 
 |     no_oaauth.py
 | 
 |   db/ 
-|	   __init__.py
+|      __init__.py
 |      crud.py
 |      database.py
 |      models.py
