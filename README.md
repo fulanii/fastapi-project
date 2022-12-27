@@ -4,7 +4,6 @@
 
 I recently came across FastAPI, a really cool fast (high-performance) modern  web framework for building APIs with Python 3.7+ based on standard Python type hints, and i really enjoy building this project with it.
 
-<br>
 
 # Project details
 This project is the FastAPI version of the flask one i made [here](https://github.com/fulanii/rest-api-project), it's a Social Media style RestAPI, where a user can register, authenticate, post and see all other posts. 
