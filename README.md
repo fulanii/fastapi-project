@@ -12,14 +12,13 @@ This project is the FastAPI version of the flask one i made [here](https://githu
 ```bash
 
 fastapi_project/
-|	app/
+| app/
 |     __init__.py
 |     main.py
 |     dependencies.py
 |     security.py
 |     utils.py
-|
-|	routers/
+|   routers/
 |     __init__.py
 |     posts.py 
 |     users.py 
