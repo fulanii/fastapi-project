@@ -43,7 +43,7 @@ fastapi_project/
 ```
 
 ### Project Demo
-
+![Demo](images/demo.gif)
 
 ### Run locally
 
