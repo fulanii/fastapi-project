@@ -30,6 +30,8 @@ fastapi_project/
 |      database.py
 |      models.py
 |      schemas.py
+| 
+| requirements.txt
 | db.db
 | run.py
 |
