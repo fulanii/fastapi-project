@@ -14,8 +14,8 @@ This project is the FastAPI version of the flask one i made [here](https://githu
 
 fastapi_project/
 |	app/
-|	  __init__.py
-|	  main.py
+|     __init__.py
+|     main.py
 |     dependencies.py
 |     security.py
 |     utils.py
