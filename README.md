@@ -33,7 +33,7 @@ fastapi_project/
 |      models.py
 |      schemas.py
 |
-|	run.py
+| run.py
 |
 
 
