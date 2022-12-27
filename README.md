@@ -48,13 +48,13 @@ fastapi_project/
 ### Run locally
 
 ```
-1.  clone the project & cd into it
+1. clone the project & cd into it
 $ git clone https://github.com/fulanii/flask-auth-project.git
 $ cd fastapi-project
 
 2. install the requirements
 $ pip install -r requirements.txt
 
-3. finally run
+3. finally run and check out link: http://127.0.0.1:8000/docs
 $ uvicorn run:app --reload
 ```
